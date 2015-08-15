@@ -16,13 +16,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="advanced_setting">Advanced Settings</string>
-  <string name="show_ssn_label">Event notification</string>
-  <string name="show_ssn_summary">Show a notification for various network events related to call handling</string>
+  <string name="advanced_setting">Cài đặt nâng cao</string>
+  <string name="show_ssn_label">Thông báo sự kiện</string>
+  <string name="show_ssn_summary">Hiển thị một thông báo cho nhiều sự kiện trên mạng khác nhau liên quan đến xử lý cuộc gọi </string>
   <string name="mwi_notification_title">Message wait indicator</string>
   <string name="mwi_notification_summary">Show message wait indicator voicemail notifications</string>
-  <string name="number_lookup">Phone number lookup</string>
-  <string name="enable_forward_lookup_title">Forward lookup</string>
+  <string name="number_lookup">Tra số điện thoại</string>
+  <string name="enable_forward_lookup_title">Tìm kiếm chuyển tiếp</string>
   <string name="enable_forward_lookup_summary">Show nearby places when searching in the dialer</string>
   <string name="enable_people_lookup_title">People lookup</string>
   <string name="enable_people_lookup_summary">Show online results for people when searching in the dialer</string>
